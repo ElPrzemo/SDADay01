@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7a925f8-d156-4139-a1e4-c530974c89a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparingStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GlobalVersulLocalVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RelationalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingWithString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YearOfBirth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,11 +103,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685173485504</updated>
-      <workItem from="1685173486673" duration="18400000" />
+      <workItem from="1685173486673" duration="19197000" />
     </task>
+    <task id="LOCAL-00001" summary="01 Day SDA">
+      <created>1685195813642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685195813643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01 Day SDA" />
+    <option name="LAST_COMMIT_MESSAGE" value="01 Day SDA" />
   </component>
 </project>
